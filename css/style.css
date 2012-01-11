@@ -1,6 +1,17 @@
 h1{
   text-align:center;
+  text-shadow: 4px 4px 4px #aaa;
+  margin:0 0 1% 0 !important ;
 }
 .name{
   margin-top:5%;
+}
+.thumbnail{
+  padding:2%;
+  float:left;
+}
+body{
+  font-family: 'Droid Serif', serif;
+
+   /* */
 }
